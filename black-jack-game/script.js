@@ -11,7 +11,7 @@ let hasBlackjack = false;
 let isAlive = false;
 let message = ``;
 let player = {
-  name: 'iago',
+  name: 'Player',
   chips: 150,
 };
 
