@@ -8,7 +8,7 @@ The Blackjack Game is a simple web application that lets users simulate a round 
 
 ### Live Demo
 
-You can test the app here: [Blackjack Live Demo](https://iagoiago-blackjack.netlify.app) <!-- Substitua com seu link real se quiser -->
+You can test the app here: [Blackjack Live Demo](https://iagoiago-blackjackgame.netlify.app) <!-- Substitua com seu link real se quiser -->
 
 ### File Structure
 
@@ -45,7 +45,7 @@ O Blackjack Game é uma aplicação web simples que permite aos usuários simula
 
 ### Demonstração ao Vivo
 
-Você pode testar o app aqui: [Demonstração do Blackjack](https://iagoiago-blackjack.netlify.app) <!-- Substitua com seu link real se quiser -->
+Você pode testar o app aqui: [Demonstração do Blackjack](https://iagoiago-blackjackgame.netlify.app) <!-- Substitua com seu link real se quiser -->
 
 ### Estrutura de Arquivos
 
