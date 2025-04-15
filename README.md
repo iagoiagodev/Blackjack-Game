@@ -13,8 +13,8 @@ You can test the app here: [Blackjack Live Demo](https://iagoiago-blackjackgame.
 ### File Structure
 
 - **index.html**: Contains the structure of the game, including buttons, display areas, and text elements.
-- **index.css**: Provides styling for the game, including colors, layout, and animations.
-- **index.js**: Contains the logic for drawing cards, checking rules, and updating the interface.
+- **style.css**: Provides styling for the game, including colors, layout, and animations.
+- **script.js**: Contains the logic for drawing cards, checking rules, and updating the interface.
 
 ### How It Works
 
@@ -50,8 +50,8 @@ Você pode testar o app aqui: [Demonstração do Blackjack](https://iagoiago-bla
 ### Estrutura de Arquivos
 
 - **index.html**: Contém a estrutura do jogo, incluindo botões, áreas de exibição e textos.
-- **index.css**: Fornece o estilo visual do jogo, incluindo cores, layout e animações.
-- **index.js**: Contém a lógica para sortear cartas, verificar as regras e atualizar a interface.
+- **style.css**: Fornece o estilo visual do jogo, incluindo cores, layout e animações.
+- **script.js**: Contém a lógica para sortear cartas, verificar as regras e atualizar a interface.
 
 ### Como Funciona
 
